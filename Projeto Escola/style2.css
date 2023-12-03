@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2? family= Open+Sans & display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Popping', sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: linear-gradient(90deg, #0868b2,#2563eb,#4f46e5);
+}
